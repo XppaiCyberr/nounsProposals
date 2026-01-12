@@ -8167,7 +8167,7 @@
       {
         "id": "908",
         "title": "Duckhead",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0xada31add8450ca0422983b9a3103633b78938617",
           "ens": "nocguild.eth"

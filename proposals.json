@@ -8140,7 +8140,7 @@
       {
         "id": "905",
         "title": "Ratify an Onchain 2026 DUNA Admin Election Process",
-        "status": "QUEUED",
+        "status": "EXECUTED",
         "proposer": {
           "id": "0xdcf37d8aa17142f053aaa7dc56025ab00d897a19",
           "ens": "satori.wtf"
@@ -8171,6 +8171,15 @@
         "proposer": {
           "id": "0xada31add8450ca0422983b9a3103633b78938617",
           "ens": "nocguild.eth"
+        }
+      },
+      {
+        "id": "909",
+        "title": "More Chip and Benny 🍪🐰 Quarter-By-Quarter",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x6ccb83c907dbf0b4bc28f9bf83173b0ab943350b",
+          "ens": null
         }
       }
     ]

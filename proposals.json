@@ -8176,9 +8176,18 @@
       {
         "id": "909",
         "title": "More Chip and Benny 🍪🐰 Quarter-By-Quarter",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0x6ccb83c907dbf0b4bc28f9bf83173b0ab943350b",
+          "ens": null
+        }
+      },
+      {
+        "id": "910",
+        "title": "Appoint Peterpandam as DUNA Compliance Administrator",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x6fb5d14b61e595e6f34baf952c5d3e60e45883b0",
           "ens": null
         }
       }

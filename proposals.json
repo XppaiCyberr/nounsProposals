@@ -8199,6 +8199,15 @@
           "id": "0xae4705dc0816ee6d8a13f1c72780ec5021915fed",
           "ens": "sewerpipe.eth"
         }
+      },
+      {
+        "id": "912",
+        "title": "Appoint Satori as DUNA Compliance Administrator",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0xdcf37d8aa17142f053aaa7dc56025ab00d897a19",
+          "ens": "satori.wtf"
+        }
       }
     ]
   }

@@ -8167,7 +8167,7 @@
       {
         "id": "908",
         "title": "Duckhead",
-        "status": "QUEUED",
+        "status": "EXECUTED",
         "proposer": {
           "id": "0xada31add8450ca0422983b9a3103633b78938617",
           "ens": "nocguild.eth"
@@ -8207,6 +8207,15 @@
         "proposer": {
           "id": "0xdcf37d8aa17142f053aaa7dc56025ab00d897a19",
           "ens": "satori.wtf"
+        }
+      },
+      {
+        "id": "913",
+        "title": "Appoint JP as DUNA Compliance Administrator",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0xa47f60564085b8792bae197be7762c7f7930ec67",
+          "ens": "eusoujp.eth"
         }
       }
     ]

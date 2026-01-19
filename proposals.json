@@ -8217,6 +8217,33 @@
           "id": "0xa47f60564085b8792bae197be7762c7f7930ec67",
           "ens": "eusoujp.eth"
         }
+      },
+      {
+        "id": "914",
+        "title": "Appoint Index as DUNA Compliance Administrator",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x10dec36b4ac9d3b60490dfe2799881287d4a74cc",
+          "ens": "indexcard.eth"
+        }
+      },
+      {
+        "id": "915",
+        "title": "Appoint wylin as DUNA Reserve Compliance Administrator",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0xc6a39e2f9a7626612292ad56e76d738db43596e4",
+          "ens": "wylin.eth"
+        }
+      },
+      {
+        "id": "916",
+        "title": "Appoint Gramajo as DUNA Compliance Administrator  (Reserve)",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x2117bf88b4cb0186eaa87500a045fc998290e42a",
+          "ens": "gramajo.eth"
+        }
       }
     ]
   }

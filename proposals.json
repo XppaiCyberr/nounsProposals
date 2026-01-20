@@ -8185,7 +8185,7 @@
       {
         "id": "910",
         "title": "Appoint Peterpandam as DUNA Compliance Administrator",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0x6fb5d14b61e595e6f34baf952c5d3e60e45883b0",
           "ens": null
@@ -8194,7 +8194,7 @@
       {
         "id": "911",
         "title": "Noun 911",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0xae4705dc0816ee6d8a13f1c72780ec5021915fed",
           "ens": "sewerpipe.eth"
@@ -8252,6 +8252,15 @@
         "proposer": {
           "id": "0xbe14b9950dc61642a084eab491fa516d8fe557e6",
           "ens": "humpty.eth"
+        }
+      },
+      {
+        "id": "918",
+        "title": "🇮🇹 ⌐◨-◨ Nouns Renaissance — Italian Nonprofit + 501(c)(3) - Phase 1",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x923bdffa5ba2cac4dac8fd80f6e556c4f2b94f47",
+          "ens": null
         }
       }
     ]

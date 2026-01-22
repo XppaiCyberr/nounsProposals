@@ -8230,7 +8230,7 @@
       {
         "id": "915",
         "title": "Appoint wylin as DUNA Reserve Compliance Administrator",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0xc6a39e2f9a7626612292ad56e76d738db43596e4",
           "ens": "wylin.eth"
@@ -8239,7 +8239,7 @@
       {
         "id": "916",
         "title": "Appoint Gramajo as DUNA Compliance Administrator  (Reserve)",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0x2117bf88b4cb0186eaa87500a045fc998290e42a",
           "ens": "gramajo.eth"
@@ -8248,7 +8248,7 @@
       {
         "id": "917",
         "title": "Nouns Bus",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0xbe14b9950dc61642a084eab491fa516d8fe557e6",
           "ens": "humpty.eth"

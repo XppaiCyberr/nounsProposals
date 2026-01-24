@@ -8271,6 +8271,15 @@
           "id": "0xcf2f348c58003da37f2cc3b7bd8e99fc2ec0b49a",
           "ens": "admin.nounsduna.eth"
         }
+      },
+      {
+        "id": "920",
+        "title": "Nouns x Origami Art: Dissolving Borders from Japan to the United Nations HQ",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x8f3a83a3356d2666d89d027544bbaffa12139e3c",
+          "ens": "tagawamakoto.eth"
+        }
       }
     ]
   }

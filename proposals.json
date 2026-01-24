@@ -8266,7 +8266,7 @@
       {
         "id": "919",
         "title": "Fund Nouns Payer Contract with USDC",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0xcf2f348c58003da37f2cc3b7bd8e99fc2ec0b49a",
           "ens": "admin.nounsduna.eth"

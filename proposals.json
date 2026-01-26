@@ -8221,7 +8221,7 @@
       {
         "id": "914",
         "title": "Appoint Index as DUNA Compliance Administrator",
-        "status": "ACTIVE",
+        "status": "QUEUED",
         "proposer": {
           "id": "0x10dec36b4ac9d3b60490dfe2799881287d4a74cc",
           "ens": "indexcard.eth"

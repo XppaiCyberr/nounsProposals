@@ -8280,6 +8280,24 @@
           "id": "0x8f3a83a3356d2666d89d027544bbaffa12139e3c",
           "ens": "tagawamakoto.eth"
         }
+      },
+      {
+        "id": "921",
+        "title": "Nouns @ Eth Denver Activation",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x4d16fce1bd6e327ae31398ce9a2c4e12c077ecb1",
+          "ens": null
+        }
+      },
+      {
+        "id": "922",
+        "title": "24/7/365 Nouns Instagram @lilnouners",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x8e777369b4bd6fbbf20270dc8c599ea11d919505",
+          "ens": null
+        }
       }
     ]
   }

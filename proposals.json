@@ -8307,6 +8307,15 @@
           "id": "0xf64642b49886ba8fee006767c3b1303df25c5211",
           "ens": "vote.0xdusk.eth"
         }
+      },
+      {
+        "id": "924",
+        "title": "Public Nouns Sculpture at Noyo Gimbal View (Indonesia)",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x0081e6f9373c1ffb7d7fc702eb15ac805eb50389",
+          "ens": "deguma.eth"
+        }
       }
     ]
   }

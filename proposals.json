@@ -8275,7 +8275,7 @@
       {
         "id": "920",
         "title": "Nouns x Origami Art: Dissolving Borders from Japan to the United Nations HQ",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0x8f3a83a3356d2666d89d027544bbaffa12139e3c",
           "ens": "tagawamakoto.eth"
@@ -8315,6 +8315,15 @@
         "proposer": {
           "id": "0x0081e6f9373c1ffb7d7fc702eb15ac805eb50389",
           "ens": "deguma.eth"
+        }
+      },
+      {
+        "id": "925",
+        "title": "Add Dire Wolf Head to Nouns Collection",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x215db99298af65306a4c60bd3b7612d5f60b03d7",
+          "ens": "nadiecito.eth"
         }
       }
     ]

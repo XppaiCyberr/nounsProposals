@@ -8325,6 +8325,15 @@
           "id": "0x215db99298af65306a4c60bd3b7612d5f60b03d7",
           "ens": "nadiecito.eth"
         }
+      },
+      {
+        "id": "926",
+        "title": "Appoint Satori as DUNA Reserve Compliance Administrator",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0xdcf37d8aa17142f053aaa7dc56025ab00d897a19",
+          "ens": "satori.wtf"
+        }
       }
     ]
   }

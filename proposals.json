@@ -8266,7 +8266,7 @@
       {
         "id": "919",
         "title": "Fund Nouns Payer Contract with USDC",
-        "status": "QUEUED",
+        "status": "EXECUTED",
         "proposer": {
           "id": "0xcf2f348c58003da37f2cc3b7bd8e99fc2ec0b49a",
           "ens": "admin.nounsduna.eth"
@@ -8311,7 +8311,7 @@
       {
         "id": "924",
         "title": "Public Nouns Sculpture at Noyo Gimbal View (Indonesia)",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0x0081e6f9373c1ffb7d7fc702eb15ac805eb50389",
           "ens": "deguma.eth"
@@ -8320,7 +8320,7 @@
       {
         "id": "925",
         "title": "Add Dire Wolf Head to Nouns Collection",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0x215db99298af65306a4c60bd3b7612d5f60b03d7",
           "ens": "nadiecito.eth"
@@ -8333,6 +8333,15 @@
         "proposer": {
           "id": "0xdcf37d8aa17142f053aaa7dc56025ab00d897a19",
           "ens": "satori.wtf"
+        }
+      },
+      {
+        "id": "927",
+        "title": "Retroactive Reimbursement for Third-Party Production Costs (Nouns Activation)",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x8ab0c174f40c5e22b00065c4cc7b561c299cad1c",
+          "ens": "caresclub.eth"
         }
       }
     ]

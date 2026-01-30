@@ -8293,7 +8293,7 @@
       {
         "id": "922",
         "title": "24/7/365 Nouns Instagram @lilnouners",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0x8e777369b4bd6fbbf20270dc8c599ea11d919505",
           "ens": null
@@ -8302,7 +8302,7 @@
       {
         "id": "923",
         "title": "Set Auction Reserve Price to 3ETH",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0xf64642b49886ba8fee006767c3b1303df25c5211",
           "ens": "vote.0xdusk.eth"

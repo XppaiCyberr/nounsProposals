@@ -8343,6 +8343,15 @@
           "id": "0x8ab0c174f40c5e22b00065c4cc7b561c299cad1c",
           "ens": "caresclub.eth"
         }
+      },
+      {
+        "id": "928",
+        "title": "Bixbite For DUNA Admin Reserve + Amend Prop 905 ⌐◨-◨",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x073f0dc58e9989c827ba5b7b35570b7315652e63",
+          "ens": "bixbite.eth"
+        }
       }
     ]
   }

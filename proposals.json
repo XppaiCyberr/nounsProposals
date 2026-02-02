@@ -8329,7 +8329,7 @@
       {
         "id": "926",
         "title": "Appoint Satori as DUNA Reserve Compliance Administrator",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0xdcf37d8aa17142f053aaa7dc56025ab00d897a19",
           "ens": "satori.wtf"
@@ -8351,6 +8351,15 @@
         "proposer": {
           "id": "0x073f0dc58e9989c827ba5b7b35570b7315652e63",
           "ens": "bixbite.eth"
+        }
+      },
+      {
+        "id": "929",
+        "title": "Nouns Creator Bus ⌐◨-◨",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0xed708bc6eaf628b7c810f799bc7e1572008a5444",
+          "ens": null
         }
       }
     ]

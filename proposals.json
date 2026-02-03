@@ -8302,7 +8302,7 @@
       {
         "id": "923",
         "title": "Set Auction Reserve Price to 3ETH",
-        "status": "ACTIVE",
+        "status": "CANCELLED",
         "proposer": {
           "id": "0xf64642b49886ba8fee006767c3b1303df25c5211",
           "ens": "vote.0xdusk.eth"

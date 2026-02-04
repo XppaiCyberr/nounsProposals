@@ -8347,7 +8347,7 @@
       {
         "id": "928",
         "title": "Bixbite For DUNA Admin Reserve + Amend Prop 905 ⌐◨-◨",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0x073f0dc58e9989c827ba5b7b35570b7315652e63",
           "ens": "bixbite.eth"
@@ -8369,6 +8369,15 @@
         "proposer": {
           "id": "0x14c86d9255d5b9768704b670c57f30662aff41f0",
           "ens": null
+        }
+      },
+      {
+        "id": "931",
+        "title": "Nouns x Origami Art: Dissolving Borders from Japan to the United Nations HQ (Ver.2)",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x8f3a83a3356d2666d89d027544bbaffa12139e3c",
+          "ens": "tagawamakoto.eth"
         }
       }
     ]

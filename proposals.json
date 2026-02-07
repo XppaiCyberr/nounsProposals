@@ -8329,7 +8329,7 @@
       {
         "id": "926",
         "title": "Appoint Satori as DUNA Reserve Compliance Administrator",
-        "status": "QUEUED",
+        "status": "EXECUTED",
         "proposer": {
           "id": "0xdcf37d8aa17142f053aaa7dc56025ab00d897a19",
           "ens": "satori.wtf"

@@ -8379,6 +8379,15 @@
           "id": "0x8f3a83a3356d2666d89d027544bbaffa12139e3c",
           "ens": "tagawamakoto.eth"
         }
+      },
+      {
+        "id": "932",
+        "title": "Reduce Minimum Quorum from 10% to 7%",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0xc6a39e2f9a7626612292ad56e76d738db43596e4",
+          "ens": "wylin.eth"
+        }
       }
     ]
   }

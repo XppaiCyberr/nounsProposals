@@ -8397,6 +8397,15 @@
           "id": "0xfc538ffd2923dddaed09c8ad1a51686275c56183",
           "ens": "mikegood.eth"
         }
+      },
+      {
+        "id": "934",
+        "title": "Add Cap Head to Nouns Collection",
+        "status": "PENDING",
+        "proposer": {
+          "id": "0x215db99298af65306a4c60bd3b7612d5f60b03d7",
+          "ens": "nadiecito.eth"
+        }
       }
     ]
   }

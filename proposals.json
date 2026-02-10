@@ -8383,7 +8383,7 @@
       {
         "id": "932",
         "title": "Reduce Minimum Quorum from 10% to 7%",
-        "status": "PENDING",
+        "status": "ACTIVE",
         "proposer": {
           "id": "0xc6a39e2f9a7626612292ad56e76d738db43596e4",
           "ens": "wylin.eth"

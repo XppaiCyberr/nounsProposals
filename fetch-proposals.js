@@ -1,6 +1,7 @@
 const fs = require('fs');
 
-const GRAPHQL_ENDPOINT = 'https://api.goldsky.com/api/public/project_cldf2o9pqagp43svvbk5u3kmo/subgraphs/nouns/prod/gn';
+const DEFAULT_GRAPHQL_ENDPOINT = 'https://api.goldsky.com/api/public/project_cldf2o9pqagp43svvbk5u3kmo/subgraphs/nouns/prod/gn';
+const GRAPHQL_ENDPOINT = process.env.GRAPHQL_ENDPOINT || DEFAULT_GRAPHQL_ENDPOINT;
 const BATCH_SIZE = 1000;
 
 async function fetchProposals() {
